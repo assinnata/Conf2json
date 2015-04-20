@@ -17,6 +17,7 @@ var converter = function(filename, callback){
 	reader.on('close', function(){
 		callback(true, jconf);
 	})
+	
 }
 
 module.exports = converter;

@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/assinnata/conf2json"
+    "url": "https://github.com/assinnata/c2j"
   },
   "keywords": [
     "config",
@@ -18,7 +18,7 @@
   "author": "assinnata",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/assinnata/conf2json/issues"
+    "url": "https://github.com/assinnata/c2j/issues"
   },
-  "homepage": "https://github.com/assinnata/conf2json"
+  "homepage": "https://github.com/assinnata/c2j"
 }
