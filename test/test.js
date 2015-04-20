@@ -1,8 +1,6 @@
 var c2j = require("../index.js");
 
-c2j("foobar", function(success, jconf){
-	console.log(success)
-	console.log(jconf)
+c2j("test/foobar", function(success, jconf){
 	if(success && jconf["a"] == 33 && jconf.foobar == "raboof" )
 		console.log("test success");
 	else

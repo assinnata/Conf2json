@@ -1,0 +1,9 @@
+This module has been created for personal purpose, 
+this will convert a configuration file in a json object.
+
+just clone and
+
+require("c2j")("filename", function(success, jconf){ ... });
+
+bugs:
+missing last line
